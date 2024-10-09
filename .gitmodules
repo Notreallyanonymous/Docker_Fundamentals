@@ -1,0 +1,3 @@
+[submodule "Fundamentals-HandsOn"]
+	path = Fundamentals-HandsOn
+	url = https://github.com/K8sAcademy/Fundamentals-HandsOn
